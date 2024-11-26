@@ -7,6 +7,16 @@
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square&logo=github&logoColor=white)](#contributing)
 [![Ethical Data](https://img.shields.io/badge/Ethical-Data_Collection-success?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAbwAAAG8B8aLcQwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAB5SURBVDiNY/z//z8DMvj14wfD7evXGH79/MkgIirGICgkxCAkLMzAyMjIwIQs+P//fwYmJiYGBgYGBmY2dgZBQUEGYVExBnFJSQZ2DnaG////MzDi0szIyMjwh+EvAyMjI8P/f/8Y/v37y/Dn7x8GJiYmBhYWVgYA8Kcl9D/hYSAAAAAASUVORK5CYII=)](#ethical-guidelines)
 
+<div align="center">
+<h3>
+  <em>"Forwarding justice everywhere through data and AI" - PhantHive</em>
+  <br/>
+  <small>Making international justice more transparent and accessible, one data point at a time</small>
+</h3>
+
+<sup>Because transparency in justice serves humanity</sup>
+</div>
+
 > Transparently collecting public data to understand humanitarian actions through international standards 🌟
 
 ## 💡 What is This?
